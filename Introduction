@@ -1,0 +1,19 @@
+# shubhamp05.github.io
+
+Hi This is Shubham Pachori, Graduate Student In University of Connecticut
+
+This repository contains my machine learning codes, I have implemented following algorithms:
+1) Linear regression with or without Regularization.
+
+2) Logistic Regression with multi class classification as One vs All.
+
+3) Understand the concept of Bias(under-fitting) nad Variance(Overfitting).
+
+4) Non-linear SVM -support vector machine with Guassian kernel.
+
+5) Neural network and designed a simple application of understanding hand-written digits with digit recognizer.
+
+
+I am constantly learning and try to implement more sophisticted algorithms like natural language procession(NLP) 
+and Deep learning in the near future.
+

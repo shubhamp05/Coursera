@@ -1,0 +1,8 @@
+title: Shubham pachori- Graduate Student at University of Connecticut
+description: Aspiring Data Scientist
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
